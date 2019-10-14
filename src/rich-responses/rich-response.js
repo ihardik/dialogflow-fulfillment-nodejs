@@ -25,7 +25,7 @@ const PLATFORMS = {
   LINE: 'LINE',
   VIBER: 'VIBER',
   ACTIONS_ON_GOOGLE: 'ACTIONS_ON_GOOGLE',
-  HANGOUTS: 'HANGOUTS',
+  HANGOUTS: 'GOOGLE_HANGOUTS',
 };
 
 // All platform values
